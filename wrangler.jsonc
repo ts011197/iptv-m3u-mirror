@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "iptv-m3u-mirror",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "iptv-m3u-mirror-db",
+      "database_id": "9ac958d9-dc46-4004-8bd6-9c167893fa05"
+    }
+  ]
+}
